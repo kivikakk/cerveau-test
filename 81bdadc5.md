@@ -2,7 +2,4 @@
 date: 2020-10-09T01:10
 ---
 
-# 81bdadc5
-
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
-
+craw
